@@ -4,8 +4,8 @@ Links parser is a multithreading sitemap application.The application can build a
 When generating the output file, a link to each child page is formed with tabs
 ## Features
 
-- Any link to another site are ignored.
-- A link to any file are ignored.
+- Any links to another site are ignored.
+- Links to any file are ignored.
 - A safe connection delay has been set (130ms).
 - Export website map as ***.txt*** file
 
